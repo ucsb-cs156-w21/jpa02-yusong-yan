@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-w21/jpa02-yusong-yan.git
 
-On Heroku: https://jpa02-yusong-yan.herokuapp.com/
+On Heroku: https://jpa02-yusongyan.herokuapp.com/
 
 On Codecov: https://codecov.io/gh/ucsb-cs156-w21/jpa02-yusong-yan
 
